@@ -1,5 +1,5 @@
 
-/* /e/datos/Dropbox/bin/movil/TxTest/enyo/../lib/layout/fittable/source/FittableLayout.css */
+/* /zd/atc/Dropbox/bin/movil/Prueba/enyo/../lib/layout/fittable/source/FittableLayout.css */
 
 .enyo-fittable-rows-layout {
 	position: relative;
@@ -71,7 +71,7 @@
 	margin-bottom: 0 !important;
 }
 
-/* /e/datos/Dropbox/bin/movil/TxTest/enyo/../lib/layout/list/source/List.css */
+/* /zd/atc/Dropbox/bin/movil/Prueba/enyo/../lib/layout/list/source/List.css */
 
 .enyo-list {
 	position: relative;
@@ -123,7 +123,7 @@
 	transition: top 0.1s linear, left 0.1s linear;
 }
 
-/* /e/datos/Dropbox/bin/movil/TxTest/enyo/../lib/layout/list/source/PulldownList.css */
+/* /zd/atc/Dropbox/bin/movil/Prueba/enyo/../lib/layout/list/source/PulldownList.css */
 
 .enyo-list-pulldown {
 	position: absolute;
@@ -186,7 +186,7 @@
 	-ms-transform: rotate(180deg);
 }
 
-/* /e/datos/Dropbox/bin/movil/TxTest/enyo/../lib/layout/panels/source/arrangers/Arranger.css */
+/* /zd/atc/Dropbox/bin/movil/Prueba/enyo/../lib/layout/panels/source/arrangers/Arranger.css */
 
 .enyo-arranger {
 	position: relative;
@@ -215,7 +215,7 @@
 }
 
 
-/* /e/datos/Dropbox/bin/movil/TxTest/enyo/../lib/layout/panels/source/Panels.css */
+/* /zd/atc/Dropbox/bin/movil/Prueba/enyo/../lib/layout/panels/source/Panels.css */
 
 .enyo-panels {
 }
@@ -230,7 +230,7 @@
 	}
 }
 
-/* /e/datos/Dropbox/bin/movil/TxTest/enyo/../lib/layout/tree/source/Node.css */
+/* /zd/atc/Dropbox/bin/movil/Prueba/enyo/../lib/layout/tree/source/Node.css */
 
 .enyo-node {
 	cursor: default;
@@ -264,7 +264,7 @@
 }
 
 
-/* /e/datos/Dropbox/bin/movil/TxTest/enyo/../lib/layout/imageview/source/ImageViewPin.css */
+/* /zd/atc/Dropbox/bin/movil/Prueba/enyo/../lib/layout/imageview/source/ImageViewPin.css */
 
 
 .pinDebug {
@@ -272,7 +272,7 @@
 	border:1px solid yellow;
 }
 
-/* /e/datos/Dropbox/bin/movil/TxTest/enyo/../lib/onyx/css/onyx.less */
+/* /zd/atc/Dropbox/bin/movil/Prueba/enyo/../lib/onyx/css/onyx.less */
 
 /* Onyx default parameters defined here */
 /* Fonts */
@@ -1421,49 +1421,12 @@
 }
 
 
-/* source/Test.css */
+/* source/App.css */
 
 /*
-    Put anything you reference with "url(../source)" in ../assets/
-    This way, you can minify your application, and just remove the "source" folder for production
+	Put anything you reference with "url(../source)" in ../assets/
+	This way, you can minify your application, and just remove the "source" folder for production
 */
 .nice-padding {
-    padding: 15px;
+	padding: 15px;
 }
-
-#id_preg {
-    background-color: lime;
-}
-
-#id_resp {
-    background-color: olive;
-}
-
-.cl_preg_resp {
-    border-width: medium;
-}
-
-
-/* source/k_Listas.css */
-
-.repeater-style {
-    padding:15px;
-}
-.repeater-item {
-    padding:4px;
-    margin:2px;
-    border:1px solid gray;
-    background-color: lightgray;
-}
-
-.cabecera_disp {
-    padding:15px;
-    text-align: center;
-    color: yellow;
-    background-color: black;
-}
-
-
-/* source/k_Opciones.css */
-
-
